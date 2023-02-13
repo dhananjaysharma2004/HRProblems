@@ -1,1 +1,1 @@
-# hacker_rank
+Hacker Rank Problems - strings and bytes
